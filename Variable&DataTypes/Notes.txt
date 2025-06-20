@@ -1,0 +1,24 @@
+JS is a programming language. We use it to give instructions to the computer.
+
+input(code)  --> Computer  --> Output
+
+
+                    Our 1st JS Code:-
+Console.log is used to log(print) a message to the console.
+console.log("Apna College");
+
+
+                    Variables in JS:-
+Variables are containers for data.
+
+
+                     Let,Const & Var:-
+
+Var: Variable can be re-declared & updated. A global scope Variable.
+Let: Variable cannot be re-declared but can be updated. A block scope of Variable.
+Const: Variable cannot be re-declared or updated. A block scope Variable.
+
+
+                    Data Types in JS:-
+Primitive DataTypes: Number,String, Boolean, Undefined, Null, BigInt, Symbol
+Non-Primitive: Objects
