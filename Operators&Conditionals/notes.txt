@@ -1,0 +1,33 @@
+                    Operators in JS:-
+Used to perform some operation on data.
+
+                   (i) Arithmetic Operators:-
++ , - , * , /
+.Modulus
+.Exponentiation
+.Increment
+.Decrement
+
+                    (ii) Assignment Operators
+                    = , += , -= , *= , %= , **=
+
+                    (iii) Comparision Operators
+    .Equal to ==
+    .Equal to & type ===
+    .Not equal to  !=
+    .Not equal to & type !==
+
+    . > , >= , < , <=
+
+
+                     (iv) Logical Operators
+
+    .Logical AND &&
+    .Logical OR  ||
+    .Logical NOT !
+
+
+
+                       Conditional Statements:-
+                       
+To implement some condition in the code.
