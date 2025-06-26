@@ -1,0 +1,29 @@
+                               DOM Manipulation
+                               (Attributes)
+. getAttribute(attr) 
+    // to get the attribute value
+
+. setAttribute(attr, value)
+     //to set the attribute value
+
+
+----------------------------------------------------------------------------------------------------------
+
+                                  DOM Manipulation
+                                      (Style)
+
+ node.style
+
+
+------------------------------------------------------------------------------------------------------------
+                                  DOM Manipulation
+                                  (Insert Elements)
+let el = document.createElement("div)
+(i)node.append(el) : adds at the end of the node(inside)
+(ii)node.prepend(el) : adds at the start of node(inside)
+(iii)node.before(el) : adds before the node(outside)
+(iv)node.after(el) : adds after the node(outside)
+
+                                  (Delete Elements)
+node.remove()  : remove the node
+
